@@ -16,5 +16,5 @@ for(i=0;i<m;i++)
     }
     cout <<"\n";
 }
-
+return 0;
 }
