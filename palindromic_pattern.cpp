@@ -14,4 +14,5 @@ int main()
         printf("%d",j+1);
         printf("\n");
     }
+    return 0;
 }
